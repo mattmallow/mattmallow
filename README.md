@@ -5,7 +5,7 @@ Welcome to my GitHub repository. I am [Matthew Fan](https://www.linkedin.com/in/
 
 ### Background & Current Experience
 
-👨‍🎓 Study in Auckland University of Technology 
+👨‍🎓 Study in Auckland University of Technology
 🎓 Degree: Bachelor of Computer and Information Science major in Software Development
 👯 I’m currently collaborating with @[AIRydon](https://github.com/AIRyndon) and @[teinnt](https://github.com/teinnt)
 
