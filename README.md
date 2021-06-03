@@ -1,11 +1,18 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**mattmallow/mattmallow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+### About Me
+Welcome to my GitHub repository. I am [Matthew Fan](https://www.linkedin.com/in/mattmallow/), a current AUT BCIS Student with passion in coding and project management.
 
-Here are some ideas to get you started:
+### Background & Current Experience
 
-- 🔭 I’m currently working on a financial product called Finappster
-- 🌱 I’m currently learning data fetching with python
-- 👯 I’m currently collaborating with @AIRydon and @teinnt
+👨‍🎓 Study in Auckland University of Technology 
+🎓 Degree: Bachelor of Computer and Information Science major in Software Development
+👯 I’m currently collaborating with @[AIRydon](https://github.com/AIRyndon) and @[teinnt](https://github.com/teinnt)
+
+<details>
+<summary>Learn More About Me<summary>
+
+#### Certifications
+
+![AI-900](images\azure-ai-900.png)
+</details>
