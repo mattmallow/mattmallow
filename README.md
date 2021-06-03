@@ -15,4 +15,8 @@ Welcome to my GitHub repository. I am [Matthew Fan](https://www.linkedin.com/in/
 #### Certifications
 
 ![AI-900](https://raw.github.com/mattmallow/mattmallow/master/images/azure-ai-900.png)
+
+#### Projects
+
+In Construction...
 </details>
