@@ -10,7 +10,7 @@ Welcome to my GitHub repository. I am [Matthew Fan](https://www.linkedin.com/in/
 👯 I’m currently collaborating with @[AIRydon](https://github.com/AIRyndon) and @[teinnt](https://github.com/teinnt)
 
 <details>
-<summary>Learn More About Me<summary>
+<summary>Learn More About Me</summary>
 
 #### Certifications
 
