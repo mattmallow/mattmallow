@@ -12,7 +12,7 @@ Welcome to my GitHub repository. I am [Matthew Fan](https://www.linkedin.com/in/
 
 ### Certifications
 
-![AI-900](https://raw.github.com/mattmallow/mattmallow/master/images/azure-ai-900.png)
+![AI-900](https://www.credly.com/badges/ce3959e1-7d4f-482f-858b-c1e93de664f0/public_url)
 
 #### Projects
 
